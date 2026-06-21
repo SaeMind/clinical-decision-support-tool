@@ -1,0 +1,19 @@
+{
+  "auroc": 0.8151012549396346,
+  "auroc_ci_lower": 0.7869193703615067,
+  "auroc_ci_upper": 0.8418530044152913,
+  "auprc": 0.5727716464573261,
+  "brier_score": 0.16308620948422992,
+  "threshold": 0.35,
+  "sensitivity": 0.8502024291497976,
+  "specificity": 0.6211365902293121,
+  "ppv": 0.3559322033898305,
+  "npv": 0.943939393939394,
+  "true_positive": 210,
+  "false_positive": 380,
+  "true_negative": 623,
+  "false_negative": 37,
+  "model_type": "LogisticRegression",
+  "preprocessor_type": "ColumnTransformer",
+  "supports_predict_proba": true
+}

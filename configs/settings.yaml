@@ -1,0 +1,25 @@
+project:
+  name: clinical-triage-cds-tool
+  version: 1.0.0
+paths:
+  data: data/synthetic_ed_triage.csv
+  outputs: outputs
+model:
+  random_state: 42
+  test_size: 0.25
+  risk_threshold: 0.35
+  high_risk_threshold: 0.65
+  low_risk_threshold: 0.15
+validation:
+  bootstrap_iterations: 300
+  alert_auroc_floor: 0.85
+  alert_fnr_gap_max: 0.05
+  alert_auc_gap_max: 0.05
+economics:
+  annual_ed_visits: 100000
+  baseline_lwbs_rate: 0.048
+  target_lwbs_rate: 0.035
+  net_revenue_per_completed_visit: 275.0
+  baseline_triage_minutes: 10.0
+  target_triage_minutes: 4.0
+  loaded_nurse_hourly_rate: 62.0

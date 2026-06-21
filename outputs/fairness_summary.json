@@ -1,0 +1,6 @@
+{
+  "sex_auroc_gap": 0.08847695510952902,
+  "sex_fnr_gap": 0.08390231092436976,
+  "race_ethnicity_auroc_gap": 0.12140393553543316,
+  "race_ethnicity_fnr_gap": 0.09047619047619046
+}

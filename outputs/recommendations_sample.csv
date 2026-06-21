@@ -1,0 +1,26 @@
+encounter_id,age,sex,race_ethnicity,chief_complaint,systolic_bp,heart_rate,respiratory_rate,oxygen_saturation,temperature_c,comorbidity_count,nurse_esi,critical_deterioration_24h,icu_admission,hospital_admission,risk_probability,recommendation,explanation
+ED002029,38,Male,Asian,stroke symptoms,104,52,15,100,37.4,1,5,0,0,0,0.2137956533667696,routine: standard triage with reassessment,high-risk chief complaint: stroke symptoms
+ED000923,36,Female,White,syncope,123,122,30,100,37.4,0,3,1,1,0,0.6886425381797561,urgent: immediate clinician evaluation recommended,heart rate above 120 bpm; respiratory rate above 24 breaths/min; high-risk chief complaint: syncope
+ED003869,61,Male,White,headache,174,89,12,95,38.2,1,5,0,0,0,0.20076237537369687,routine: standard triage with reassessment,
+ED004945,91,Female,White,fever,119,76,23,95,38.0,2,3,0,1,1,0.6505594402650053,urgent: immediate clinician evaluation recommended,age 75 years or older
+ED003456,54,Female,Other,chest pain,132,68,26,93,36.5,1,2,1,1,0,0.4797615950327738,semi-urgent: accelerated triage review recommended,respiratory rate above 24 breaths/min; high-risk chief complaint: chest pain
+ED000623,35,Male,White,chest pain,139,107,15,92,37.8,1,4,0,0,0,0.2956118990162596,routine: standard triage with reassessment,high-risk chief complaint: chest pain
+ED002148,41,Female,Black,fall,104,72,25,93,36.7,1,5,0,0,0,0.18666513850995742,routine: standard triage with reassessment,respiratory rate above 24 breaths/min
+ED001514,12,Female,Hispanic,fever,148,95,14,96,36.7,0,5,0,0,0,0.07184157253471565,low acuity: standard triage pathway,
+ED001456,98,Male,Black,chest pain,142,63,22,100,37.7,4,1,0,0,1,0.9049819487198794,urgent: immediate clinician evaluation recommended,high-risk chief complaint: chest pain; age 75 years or older; three or more documented comorbidities
+ED004368,46,Male,Black,wound check,98,99,23,94,37.2,1,5,0,0,0,0.16976202885794758,routine: standard triage with reassessment,
+ED003771,19,Male,White,syncope,113,97,17,100,37.6,0,5,0,0,0,0.12227258999618743,low acuity: standard triage pathway,high-risk chief complaint: syncope
+ED001642,0,Male,Black,chest pain,94,90,19,100,37.8,0,5,0,0,0,0.0596971892049166,low acuity: standard triage pathway,high-risk chief complaint: chest pain
+ED000633,6,Female,White,fever,143,94,24,95,37.4,0,5,0,0,0,0.05478217232105742,low acuity: standard triage pathway,
+ED004691,55,Male,White,weakness,91,87,11,94,36.5,1,5,0,0,0,0.14267332557431553,low acuity: standard triage pathway,
+ED002328,53,Female,Hispanic,abdominal pain,93,41,11,94,36.9,2,4,0,0,0,0.3121243258046032,routine: standard triage with reassessment,
+ED003409,48,Male,White,medication refill,137,79,14,94,37.2,2,5,0,0,0,0.22656577425070543,routine: standard triage with reassessment,
+ED000502,33,Male,White,fall,121,87,27,96,37.1,2,4,0,0,0,0.2962701509529022,routine: standard triage with reassessment,respiratory rate above 24 breaths/min
+ED001427,69,Male,Black,shortness of breath,102,73,18,97,37.2,0,4,0,0,0,0.2645898624927342,routine: standard triage with reassessment,high-risk chief complaint: shortness of breath
+ED000054,39,Female,White,stroke symptoms,138,45,16,93,37.0,1,4,0,0,0,0.2132363121490001,routine: standard triage with reassessment,high-risk chief complaint: stroke symptoms
+ED002627,81,Female,Hispanic,headache,88,102,17,100,36.9,3,2,1,1,1,0.8778207223011651,urgent: immediate clinician evaluation recommended,systolic blood pressure below 90 mmHg; age 75 years or older; three or more documented comorbidities
+ED001882,39,Female,Other,wound check,121,72,25,97,38.0,0,5,0,0,0,0.1482333862699606,low acuity: standard triage pathway,respiratory rate above 24 breaths/min
+ED004515,70,Male,White,fall,158,92,19,99,37.1,3,4,0,0,1,0.5330862299199538,semi-urgent: accelerated triage review recommended,three or more documented comorbidities
+ED002823,26,Male,Hispanic,fall,87,102,9,92,37.4,0,4,1,0,0,0.23057272772303544,routine: standard triage with reassessment,systolic blood pressure below 90 mmHg
+ED002582,47,Male,White,chest pain,140,75,24,100,38.1,2,4,1,0,1,0.40778735179476827,semi-urgent: accelerated triage review recommended,high-risk chief complaint: chest pain
+ED004247,60,Male,Other,stroke symptoms,123,71,12,99,37.3,3,3,1,0,1,0.710164279310888,urgent: immediate clinician evaluation recommended,high-risk chief complaint: stroke symptoms; three or more documented comorbidities
